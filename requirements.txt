@@ -1,0 +1,13 @@
+langchain-community
+langchain-core
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
+langchain-groq
+requests
+beautifulsoup4
+gradio
+dotenv
+langchain-huggingface
+langgraph
+playwright

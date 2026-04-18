@@ -1,0 +1,13 @@
+.env
+
+.venv/
+venv/
+
+.gradio/
+
+.vectorstore/
+*.faiss
+*.pkl
+
+__pycache__/
+*.pyc
